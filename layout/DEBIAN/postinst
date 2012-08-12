@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# Path to image files is too long for tar/deb; had to shorten for packaging
+THEME_PATH="/Library/Themes/Depth for PIB.theme/Bundles"
+/bin/mv "${THEME_PATH}/cas" "${THEME_PATH}/com.apple.springboard"

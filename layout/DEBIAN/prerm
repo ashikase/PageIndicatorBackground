@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# Restore original path name so files can be uninstalled
+THEME_PATH="/Library/Themes/Depth for PIB.theme/Bundles"
+/bin/mv "${THEME_PATH}/com.apple.springboard" "${THEME_PATH}/cas"

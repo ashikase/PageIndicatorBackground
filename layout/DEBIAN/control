@@ -1,0 +1,11 @@
+Package: jp.ashikase.pageindicatorbackground
+Name: Page Indicator Background
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Themable background for page indicator.
+ This is inspired by the "Depth" theme, created by Jona ("Joniboy") from deviantART.
+ http://j-o-n-i-b-o-y.deviantart.com/
+Maintainer: Lance Fetters
+Author: Lance Fetters
+Section: Tweaks
